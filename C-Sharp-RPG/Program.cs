@@ -6,7 +6,8 @@ namespace C_Sharp_RPG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a test!");
+            Console.WriteLine("C-Sharp-RPG");
+            Console.WriteLine("By Jaden Mounteer");
         }
     }
 }
